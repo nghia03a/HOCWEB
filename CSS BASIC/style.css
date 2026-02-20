@@ -1,9 +1,3 @@
-body {
-  background-image: url(/IMG/OIP.webp);
-}
-
-h2 {
-  /* opacity: 10%; */
-  /* display: none; */
-  visibility: hidden;
+div ~ div {
+  color: blue;
 }
