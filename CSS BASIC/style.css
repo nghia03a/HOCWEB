@@ -1,3 +1,3 @@
-div ~ div {
-  color: blue;
+.top:not(:first-child) {
+  background-color: yellow;
 }
